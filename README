@@ -1,0 +1,13 @@
+
+The class CodeToolkit.java contains the functional implementations for part 3 of the assignment.
+Functional Sizes of EI and EO and EQ have been considered as 10, 7 and 4 respectively.
+
+The Graph class has been modified in the following ways:
+* getNodeCount() and getEdgeCount() has been added to return the count of edges and nodes.
+* two counter variables to count the increment the nodes and edges whenever the counter gets incremented.
+
+Part 1 of the assignment has been added as a docx file in the root of this project.
+
+KINDLY MODIFY THE DIRECTORY STRING TO THE "INPUT" folder in the project if necessary.
+The INPUT folder contains both the class files and java files and the code is expected to filter out
+the respective file types.
